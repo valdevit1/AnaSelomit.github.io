@@ -32,5 +32,20 @@
 
 }
 
+/* portafolio*/
+
+.Portafolio {
+    background-image: url(../img/fondo2.avif);
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+
+h2 {
+    color:  rgb(80, 6, 110);
+}
+
+p {
+    color:  rgb(58, 8, 101);
+}
 
 
