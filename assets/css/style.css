@@ -22,6 +22,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
+    height: 700px;
     
 }
 
@@ -53,6 +54,8 @@ h2 {
 p {
     color:  rgb(58, 8, 101);
 }
+
+/*experiencia*/
 
 #experiencia {
     background-image: url(../img/fondo2.avif);
