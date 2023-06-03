@@ -10,12 +10,18 @@
     font-size: 1rem;
     font-weight: 500;
     
+    
+}
+
+.collapse {
+    background-color: #fff;
 }
 
 #Presentacion {
     background-image: url("../img/foto.png");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: right;
     
 }
 
@@ -34,7 +40,7 @@
 
 /* portafolio*/
 
-.Portafolio {
+#Portafolio {
     background-image: url(../img/fondo2.avif);
     background-repeat: no-repeat;
     background-size: cover;   
@@ -48,7 +54,7 @@ p {
     color:  rgb(58, 8, 101);
 }
 
-.experiencia {
+#experiencia {
     background-image: url(../img/fondo2.avif);
     background-repeat: no-repeat;
     background-size: cover;
