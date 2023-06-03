@@ -48,4 +48,22 @@ p {
     color:  rgb(58, 8, 101);
 }
 
+.experiencia {
+    background-image: url(../img/fondo2.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-header {
+    background-color: blueviolet;
+}
+
+/*footer*/
+
+.footer {
+    
+    background-color:  rgb(80, 6, 110) ;
+    color: #fff;
+}
+
 
