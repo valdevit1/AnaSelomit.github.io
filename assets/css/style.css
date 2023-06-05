@@ -69,10 +69,19 @@ p {
 
 /*footer*/
 
-.footerfinal {
+.footer {
+    background-color: purple;
     
-    background-color: purple (80, 6, 110) ;
-    
+}
+
+.icon {
+    font-size: 2rem;
+    color: #fff;
+}
+
+.icon:hover {
+    font-size: 2rem;
+    color: turquoise;
 }
 
 
