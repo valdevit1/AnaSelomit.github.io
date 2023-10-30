@@ -1,16 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200;500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@200;500&display=swap");
 
-*{
-    margin:0;
-    
+* {
+    margin: 0;
 }
 
 .navbar {
     height: 80px;
     font-size: 1rem;
     font-weight: 500;
-    
-    
 }
 
 .collapse {
@@ -18,12 +15,11 @@
 }
 
 #Presentacion {
-    background-image: url("../img/foto.png");
+    background-image: url("../img/foto2.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
     height: 700px;
-    
 }
 
 .btn {
@@ -36,7 +32,6 @@
     background-color: rgb(22, 177, 177);
     color: white;
     border: none;
-
 }
 
 /* portafolio*/
@@ -44,15 +39,15 @@
 #Portafolio {
     background-image: url(../img/fondo2.avif);
     background-repeat: no-repeat;
-    background-size: cover;   
+    background-size: cover;
 }
 
 h2 {
-    color:  rgb(80, 6, 110);
+    color: rgb(80, 6, 110);
 }
 
 p {
-    color:  rgb(58, 8, 101);
+    color: rgb(58, 8, 101);
 }
 
 /*experiencia*/
@@ -71,7 +66,6 @@ p {
 
 .footer {
     background-color: purple;
-    
 }
 
 .icon {
@@ -83,5 +77,3 @@ p {
     font-size: 2rem;
     color: turquoise;
 }
-
-
