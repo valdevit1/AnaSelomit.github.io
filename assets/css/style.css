@@ -77,3 +77,22 @@ p {
     font-size: 2rem;
     color: turquoise;
 }
+
+.software {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.iconm {
+    width: 45px;
+}
+
+.iconm2 {
+    width: 65px;
+}
+
+.dum {
+    width: 350px;
+}
